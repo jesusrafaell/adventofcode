@@ -4,8 +4,6 @@ int m, n;
 
 int dir[4][2] = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
 
-
-
 void part2(vector<vector<char>>& mp) {
   int m = mp.size(), n = mp[0].size();
   int x = -1, y = -1;
