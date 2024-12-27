@@ -85,6 +85,10 @@ output.txt
 in.txt
 test.txt
 out.txt
+*.venv
+venv
+*.myenv
+myenv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
